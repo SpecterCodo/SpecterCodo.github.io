@@ -10,10 +10,11 @@ comments: true
 share: true
 related: true
 ---
-This is my first post and well. Python.
 
+This is my first post and well. Python.
 
 ```python
 print("Hello, infosec!")
+
 
 
