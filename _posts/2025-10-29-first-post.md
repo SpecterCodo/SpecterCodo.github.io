@@ -5,4 +5,9 @@ date: 2025-10-29
 theme: minima
 ---
 This is my first post and well. Python.
-print("Hello InfoSec")
+
+
+```python
+print("Hello, infosec!")
+
+
