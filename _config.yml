@@ -27,7 +27,7 @@ search: true
 # Build settings
 markdown: kramdown
 highlighter: rouge
-theme: minima
+remote_themes: mmistakes/minimal-mistakes 
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
